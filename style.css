@@ -1,0 +1,35 @@
+body {
+    background-image: url("images/background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: courier;
+    max-width: 40rem;
+    margin: 40px auto;
+    min-height:100vh;
+}
+
+h1{
+    color:gold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.box {
+    background-color:beige;
+    color:black;
+    border: 5px solid rgb(202, 59, 59);
+    padding: 1px 15px;
+    width:55%;
+    border-radius:12px;
+    margin:75px;
+}
+
+.box h2{
+    text-align: center;
+    text-decoration: underline;
+ }
+
+ .box p {
+    text-align: center;
+ }
